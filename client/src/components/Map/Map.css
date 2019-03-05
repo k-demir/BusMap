@@ -1,0 +1,25 @@
+.Map  {
+  background-color: #fff;
+}
+
+.leaflet-control-attribution {
+  font-size: 8px !important;
+}
+
+.busIcon {
+  background-color: #021460;
+  border-radius: 8px;
+  padding: 2px;
+}
+
+.busIconSpan {
+  width: 100%;
+  height: 100%;
+  color: gold;
+  font-size: 10px;
+  line-height: 16px;
+  text-align: center;
+  position: absolute;
+  left: 0;
+  top: 0;
+}

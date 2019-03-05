@@ -1,0 +1,24 @@
+body {
+  height: 100vh;
+  background-color: #021460;
+  color: gold;
+  text-align: center;
+  margin: 0;
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.Selector {
+  margin: 1vw;
+}
+
+.Map {
+  height: 80vh;
+  width: 98vw;
+  flex: 1;
+  margin: 1vw;
+}

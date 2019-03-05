@@ -1,0 +1,15 @@
+.busButton {
+  background-color: transparent;
+  border: 1px solid #ccc;
+  color: #ccc;
+  outline: none;
+  border-radius: 8px;
+  margin: 2px 2px;
+  padding: 4px 8px;
+  min-width: 30px;
+}
+
+.busButton.selected {
+  color: gold;
+  border: 1px solid gold;
+}
